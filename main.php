@@ -1,11 +1,16 @@
 <?php
-function somar ($a , $b , $c){
-    return $a + $b + $c;
 
+function multiplicacao ($a,$b){
+    return $a * $b;
 
 
 }
-echo " resultado:" , somar (5,7,3);
+echo "resultado: " , multiplicacao(10,5);
+
+function divisao ($c,$d){
+return $c / $d;
+}
+echo "resultado: ", divisao(34,4) , "\n"
 
 
 ?>
