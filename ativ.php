@@ -14,3 +14,6 @@ echo "resultado: ", divisao(34,4) , "\n"
 
 
 ?>
+
+
+
